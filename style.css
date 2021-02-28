@@ -1,8 +1,23 @@
 body {
     font-size: 15pt;
+    background-image: linear-gradient( 88.8deg,  rgba(239,171,245,1) 13.4%, rgba(196,181,249,1) 76.3% );
 }
 p {
   text-align: center;
   color:blue;
   text-shadow: 2px 2px 5px red;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 80px;
+  margin-bottom: 30px;
+}
+
+h3,
+p {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 30px;
 }
