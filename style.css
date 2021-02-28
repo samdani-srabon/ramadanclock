@@ -24,7 +24,6 @@ p {
 #timer{
   margin-left: auto;
   margin-right: auto;
-  box-sizing: border-box;
   text-align: center;
   background-color: lightgrey;
   width: 300px;
