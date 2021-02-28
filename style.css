@@ -3,5 +3,6 @@ body {
 }
 p {
   text-align: center;
-  
+  color:blue;
+  text-shadow: 2px 2px 5px red;
 }
