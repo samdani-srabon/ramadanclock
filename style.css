@@ -23,13 +23,3 @@ p {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 30px;
 }
-#timer{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #fbc2eb ;
-  width: 300px;
-  border: 20px  solid hotpink;
-  padding: 25px  #fc46ab;
-  margin: 20px;
-}
