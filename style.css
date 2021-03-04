@@ -25,6 +25,15 @@ p {
   font-family: 'Open Sans', sans-serif;
   margin-bottom: 30px;
 }
+#cap {
+     background-color: lightgrey ;
+     font-size: auto ;
+     color: hotpink;
+     text-shadow: 2px 2px 5px blue;
+     align-self: center;
+     text-justify: auto ;
+     
+     }
 .ttable {
     display: table;
     text-align: center;
@@ -41,4 +50,4 @@ p {
     background-color:rgba(47, 199, 199, 0.418);
 
 }
-
+ 
