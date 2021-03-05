@@ -50,4 +50,8 @@ p {
     background-color:rgba(47, 199, 199, 0.418);
 
 }
- 
+#footer {
+   background-color: #F1F1F1;
+   text-align: center;
+   padding: 10px;
+ }
